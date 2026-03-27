@@ -1,6 +1,6 @@
 # Core data science
 pandas>=2.2,<3
-numpy>=1.26,<2
+numpy>=1.26
 pyyaml>=6
 matplotlib>=3.8
 seaborn>=0.13
@@ -9,7 +9,7 @@ requests>=2.32
 python-dotenv>=1.0
 typer>=0.12,<1
 pydantic>=2.8,<3
-pyarrow>=17,<18
+pyarrow>=18
 
 # Climate data
 xarray>=2023.1.0       # Handling NetCDF
